@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    margin-right: 50%;
+    background-color: lavender;
+}
+h2{
+    background-color: grey;
+    text-align: center;
+    border-radius: 5px;
+  
+}
